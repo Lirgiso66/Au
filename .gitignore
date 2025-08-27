@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env/
+
+# AutoGluon artifacts (тяжёлые модели)
+AutogluonModels/
+*.log
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+.colab/
+
+# OS
+.DS_Store
+Thumbs.db
