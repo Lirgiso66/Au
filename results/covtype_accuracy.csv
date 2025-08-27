@@ -1,0 +1,4 @@
+model,accuracy
+AutoGluon,0.8983
+RF (HalvingGrid),0.7762
+HGB (HalvingGrid),0.7094
