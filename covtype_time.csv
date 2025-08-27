@@ -1,0 +1,4 @@
+model,time_sec
+AutoGluon,82.87
+RF (HalvingGrid),4.53
+HGB (HalvingGrid),3.76

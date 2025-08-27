@@ -1,0 +1,7 @@
+model,accuracy
+AutoGluon,0.8633
+RF (HalvingGrid),0.8460
+ET (HalvingGrid),0.8252
+LogReg (HalvingGrid),0.8464
+VotingSoft (direct),0.8448
+Stacking (direct),0.8558

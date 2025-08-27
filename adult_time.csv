@@ -1,0 +1,7 @@
+model,time_sec
+AutoGluon,35.60
+RF (HalvingGrid),70.82
+ET (HalvingGrid),208.81
+LogReg (HalvingGrid),0.79
+VotingSoft (direct),41.59
+Stacking (direct),211.08

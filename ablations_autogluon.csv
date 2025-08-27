@@ -1,0 +1,7 @@
+dataset,variant,accuracy,time_sec
+wine,default,1.0000,205.12
+wine,no_stack,1.0000,191.16
+wine,default_half_time,1.0000,107.41
+digits,default,0.9833,223.50
+digits,no_stack,0.9833,195.03
+digits,default_half_time,0.9889,143.17
