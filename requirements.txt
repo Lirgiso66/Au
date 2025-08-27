@@ -1,13 +1,8 @@
-python-dateutil>=2.8.2
-pytz>=2023.3
 pandas==2.2.2
 numpy==2.0.2
 scikit-learn==1.6.1
 matplotlib==3.10.0
-
-# AutoML stack
 autogluon.tabular==1.4.0
 openml==0.15.1
-
-# опционально, если захочешь Ray для параллелизма AG:
-# ray>=2.10.0,<2.45.0
+python-dateutil>=2.8.2
+pytz>=2023.3
