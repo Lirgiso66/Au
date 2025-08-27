@@ -1,5 +1,5 @@
 # AutoML Thesis Experiments
-
+- **Release (заморожённая версия результатов):** https://github.com/Lirgiso66/Au/releases/tag/v1.0
 [![Open In Colab](https://colab.research.googleusercontent.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lirgiso66/Au/blob/main/colab_quickstart.ipynb)
 
 Reproduce:
